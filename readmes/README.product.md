@@ -1,5 +1,5 @@
-# Project name
-> **Project** is ..., description, what does it solve, etc.
+# Product name
+> **Product** is ..., description, what does it solve, etc.
 
 ![Image](header.png)
 
@@ -21,7 +21,7 @@ This section will describe requirements needed to satisfy the installation or ru
  - `mvn clean install`
  
 ### Run
- - Find `MainEntry.java`, then right click and run
+ - Right click and run `MainEntry.java`
  
 ### Test
  - Run `mvn test`
