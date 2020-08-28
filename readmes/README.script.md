@@ -1,13 +1,10 @@
-# Script Name as Headline
-**Script Name** is a script for things. Explain usage here like this:
+# Bash Prototypes
 
-```
-$ ./test-script arg1 .. argN
- Output
-$ 
-```
-## Prerequisites
-* Bash
+> **Bash Prototypes** is a collection of bash prototypes, examples, etc. The purpose of each prototype is to demonstrate how bash can be used or how another technology can be combined with bash.
+
+## Getting started
+
+To get a local copy up and running follow these simple example steps. Go through each file or project inside to run it.
 
 ## Contact
 
